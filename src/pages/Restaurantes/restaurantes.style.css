@@ -1,0 +1,29 @@
+.content-rest{
+    height: 90%;
+    width: 80%;
+    background-color: #FFFADD;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-container .image img{
+    height: 200px;
+    border-radius: 10px;
+}
+.container-cards{
+    display: flex;
+    gap: 20px;
+}
+
+.card-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #F8EFC4;
+    height: 19rem;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #ccc;
+}
